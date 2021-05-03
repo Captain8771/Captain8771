@@ -9,7 +9,8 @@ I can code python.
 ## How to reach
 the preferred way to reach me is on discord. I dont accept friend requests so the only way to really reach me is through my [Discord Server](https://discord.gg/qWrFPDTCRz)
 
-
+## Random stuff i wanna talk about
+Pikanaruto is pretty damn weird :trole:
 
 
 ## My socials
