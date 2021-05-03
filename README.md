@@ -2,7 +2,7 @@
 Hi im Captain8771! 
 I am someone who enjoys playing (and breaking) video games.
 
-##Programming
+#Programming
 I can code python.
 
 ##How to reach
