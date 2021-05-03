@@ -10,4 +10,5 @@ the preferred way to reach me is on discord. I dont accept friend requests so th
 
 ## My socials
 [Youtube](https://www.youtube.com/channel/UCug4x3ILp2jgS3G0wfZFd6g)
+
 [Twitch](https://www.twitch.tv/thecaptain8771)
