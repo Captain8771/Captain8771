@@ -14,6 +14,7 @@ I am someone who enjoys playing (and breaking) video games.
 - [Python 3.6](https://www.python.org/downloads/release/python-360/)
 - [Discord.py](https://pypi.org/project/discord.py/)
 - [Discord Developer Portal](https://discord.com/developers/applications)
+- [This tutorial(I really Recommend it)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - probably something i forgot about too
 
 ## How to reach
