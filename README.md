@@ -5,8 +5,8 @@ I am someone who enjoys playing (and breaking) video games.
 
 ![test](https://media.discordapp.net/attachments/816969327504392243/840479027806339102/uwu.png?width=480&height=240 "EA Sports")
 
-## Programming
-![Python](https://cdn.discordapp.com/emojis/286529073445076992.png?v=1 "Python")
+## Programming Languages Known
+![Python](https://cdn.discordapp.com/emojis/286529073445076992.png?v=1 "Python" = 25x25)
 
 ## How to reach
 the preferred way to reach me is on discord. I dont accept friend requests so the only way to really reach me is through my [Discord Server](https://discord.gg/qWrFPDTCRz)
