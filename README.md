@@ -3,7 +3,7 @@ Hi im Captain8771!
 
 I am someone who enjoys playing (and breaking) video games.
 
-![test](https://media.discordapp.net/attachments/816969327504392243/840479027806339102/uwu.png?width=960&height=480 "testing")
+![test](https://media.discordapp.net/attachments/816969327504392243/840479027806339102/uwu.png?width=480&height=240 "testing")
 
 ## Programming
 I can code python.
