@@ -14,7 +14,7 @@ I am someone who enjoys playing (and breaking) video games.
 - [Python 3.6](https://www.python.org/downloads/release/python-360/)
 - [Discord.py](https://pypi.org/project/discord.py/)
 - [Discord Developer Portal](https://discord.com/developers/applications)
-
+- probably something i forgot about too
 
 ## How to reach
 the preferred way to reach me is on discord. I dont accept friend requests so the only way to really reach me is through my [Discord Server](https://discord.gg/qWrFPDTCRz)
