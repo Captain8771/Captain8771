@@ -3,14 +3,14 @@ Hi im Captain8771!
 
 I am someone who enjoys playing (and breaking) video games.
 
+![test](https://media.discordapp.net/attachments/816969327504392243/840479027806339102/uwu.png?width=960&height=480 "testing")
+
 ## Programming
 I can code python.
 
 ## How to reach
 the preferred way to reach me is on discord. I dont accept friend requests so the only way to really reach me is through my [Discord Server](https://discord.gg/qWrFPDTCRz)
 
-## Random stuff i wanna talk about
-Pikanaruto is pretty damn weird :trole:
 
 
 ## My socials
