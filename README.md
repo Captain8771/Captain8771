@@ -12,6 +12,13 @@ I am someone who enjoys playing (and breaking) video games.
 ## How to reach
 the preferred way to reach me is on discord. I dont accept friend requests so the only way to really reach me is through my [Discord Server](https://discord.gg/qWrFPDTCRz)
 
+## Cool Discord Servers
+
+[Captains Ship](https://discord.gg/qWrFPDTCRz)
+
+[Chill Zone](https://discord.gg/Q6p7HK4XeX)
+
+[All Of Us](https://discord.gg/gxpszzpgug)
 
 
 ## My socials
