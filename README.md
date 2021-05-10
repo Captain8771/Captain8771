@@ -3,7 +3,7 @@ Hi im Captain8771!
 
 I am someone who enjoys playing (and breaking) video games.
 
-<i>ree my nitro ran out<i/>
+<i>ree my nitro ran out</i>
 
 ![test](https://media.discordapp.net/attachments/816969327504392243/840479027806339102/uwu.png?width=480&height=240 "EA Sports")
 
