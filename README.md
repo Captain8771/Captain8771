@@ -26,8 +26,6 @@ the preferred way to reach me is on discord. I dont accept friend requests so th
 
 [Captains Ship](https://discord.gg/qWrFPDTCRz)
 
-[Chill Zone](https://discord.gg/Q6p7HK4XeX)
-
 [All Of Us](https://discord.gg/gxpszzpgug)
 
 
