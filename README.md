@@ -7,7 +7,15 @@ I am someone who enjoys playing (and breaking) video games.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain8771" width=500&>
 
 ## Programming Languages 
-<img src="https://camo.githubusercontent.com/15b46961dc0bd64768af004b11cec415fe5dc365adb05965b45c220de26f0fbd/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3238363532393037333434353037363939322e706e673f763d31" alt="Python" title="Python" data-canonical-src="https://cdn.discordapp.com/emojis/286529073445076992.png?v=1" width="50" height ="50"/>    <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://pc-freak.net/images/bat-file-icon-windows-read-variable.png" width="50" height="50">
+<!--<img src="https://camo.githubusercontent.com/15b46961dc0bd64768af004b11cec415fe5dc365adb05965b45c220de26f0fbd/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3238363532393037333434353037363939322e706e673f763d31" alt="Python" title="Python" data-canonical-src="https://cdn.discordapp.com/emojis/286529073445076992.png?v=1" width="50" height ="50"/>    <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://pc-freak.net/images/bat-file-icon-windows-read-variable.png" width="50" height="50"> <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" width="50" height="50"> <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.redd.it/31b2ii8hchi31.jpg" width="50" height="50">-->
+- Python
+- JavaScript
+- C++
+- C#
+- Java
+- PHP
+- Go
+- Ruby
 
 ## Jobs
 If you hire me to code something for you note that i may reject or cancel the job at any time.
