@@ -30,7 +30,7 @@ If you hire me to code something for you note that i may reject or cancel the jo
 - probably something i forgot about too
 
 ## How to reach
-the preferred way to reach me is on discord. I dont accept friend requests so the only way to really reach me is through my [Discord Server](https://discord.gg/qWrFPDTCRz)
+the preferred way to reach me is on discord. I dont accept friend requests so unless you have a mutual server with me the only way to really reach me is through my [Discord Server](https://discord.gg/qWrFPDTCRz)
 
 ## Cool Discord Servers
 
