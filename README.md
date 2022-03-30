@@ -3,6 +3,8 @@ Hi im Captain8771!
 
 I am someone who enjoys playing (and breaking) video games.
 
+wakatime was set up at 30'th of march, 2022
+
 [![wakatime](https://wakatime.com/badge/user/a54c4453-540f-4ca0-88f6-f60648485143.svg)](https://wakatime.com/@a54c4453-540f-4ca0-88f6-f60648485143)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Captain8771&show_icons=true&include_all_commits=true&show_icons=true&count_private=true&theme=material-palenight&custom_title=Captain8771" width=2000/>
