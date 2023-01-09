@@ -6,9 +6,10 @@ I am someone who enjoys playing (and breaking) video games.
 <!-- wakatime was set up at 30'th of march, 2022
 
 [![wakatime](https://wakatime.com/badge/user/a54c4453-540f-4ca0-88f6-f60648485143.svg)](https://wakatime.com/@a54c4453-540f-4ca0-88f6-f60648485143)
- -->
+-->
+<!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=Captain8771&show_icons=true&include_all_commits=true&show_icons=true&count_private=true&theme=material-palenight&custom_title=Captain8771" width=500/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain8771&theme=material-palenight" width=250&>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain8771&theme=material-palenight" width=250&> -->
 
 <!-- 
 ## Powercord stuffs
@@ -28,3 +29,5 @@ I am someone who enjoys playing (and breaking) video games.
 [Youtube](https://www.youtube.com/channel/UCug4x3ILp2jgS3G0wfZFd6g)
 
 [Twitch](https://www.twitch.tv/thecaptain8771)
+
+<a rel="me" href="https://beef.moe/@niko_oneshot">Mastodon</a>
