@@ -3,6 +3,8 @@ Hi im Captain8771!
 
 I am someone who enjoys playing (and breaking) video games.
 
+GPG key signing was set up at thursday january 12th 2023. Any prior commits should be assumed real unless explicitly stated otherwise.
+
 <!-- wakatime was set up at 30'th of march, 2022
 
 [![wakatime](https://wakatime.com/badge/user/a54c4453-540f-4ca0-88f6-f60648485143.svg)](https://wakatime.com/@a54c4453-540f-4ca0-88f6-f60648485143)
