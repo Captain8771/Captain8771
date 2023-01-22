@@ -1,11 +1,12 @@
 ## Hello!
-Hi im Captain8771! 
+<!--Hi im Captain8771! 
 
-I am someone who enjoys playing (and breaking) video games.
+I am someone who enjoys playing (and breaking) video games. -->
+
+![](./card.png)
 
 GPG key signing was set up at thursday january 12th 2023. Any prior commits should be assumed real unless explicitly stated otherwise.
 ignore the previous unverified commits on this repo today I messed up with email linked to git cli TWICE.
-
 
 <!-- wakatime was set up at 30'th of march, 2022
 
