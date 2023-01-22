@@ -36,4 +36,4 @@ ignore the previous unverified commits on this repo today I messed up with email
 
 <a rel="me" href="https://beef.moe/@niko_oneshot">Mastodon</a>
 
-<a rel="me" href="https://en.pronouns.page/@Captain8771>pronouns.page</a>
+<a rel="me" href="https://en.pronouns.page/@Captain8771">pronouns.page</a>
