@@ -38,3 +38,6 @@ ignore the previous unverified commits on this repo today I messed up with email
 <a rel="me" href="https://beef.moe/@niko_oneshot">Mastodon</a>
 
 <a rel="me" href="https://en.pronouns.page/@Captain8771">pronouns.page</a>
+
+
+<!-- shh im just resetting a discord bot token here to test something, don't mind me. MTE4ODU1MjE3MTc1NTY3NTcwOA.GyGtgL.Tu5V1_BPbrc6evzHsPNuAhbT6UkNNxcoTj3bvQ -->
