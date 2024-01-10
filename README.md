@@ -3,7 +3,7 @@
 
 I am someone who enjoys playing (and breaking) video games. -->
 
-![](./card.png)
+[![](./card.png)](https://en.pronouns.page/@Captain8771)
 
 GPG key signing was set up at thursday january 12th 2023. Any prior commits should be assumed real unless explicitly stated otherwise.
 ignore the previous unverified commits on this repo today I messed up with email linked to git cli TWICE.
