@@ -25,9 +25,9 @@ ignore the previous unverified commits on this repo today I messed up with email
 
 ## Find me at
 
-[Captains Ship](https://discord.gg/gDcBMNeXc4)
+[All Of Us](https://discord.gg/jeprcRUe37) ~~rip~~ HECK YEAH ITS BACK
 
-~~[All Of Us](https://discord.gg/gxpszzpgug)~~  rip
+[Captains Ship](https://discord.gg/gDcBMNeXc4)
 
 
 ## My socials
